@@ -23,6 +23,7 @@
     "website": "24-942-grammar-of-a-less-familiar-language-spring-2003"
   },
   "course_title": "Grammar of a Less Familiar Language",
+  "hide_download": true,
   "course_description": "This course is designed to allow participants to engage in the exploration of the grammatical structure of a language that is unknown to them (and typically to the instructors as well). In some ways it simulates traditional field methods research. In terms of format, we work in both group and individual meetings with the consultant. Each student identifies some grammatical construction (e.g. wh questions, agreement, palatalization, interrogative intonation) to focus their research: they elicit and share data and write a report on the material gathered that is to be turned in at the end of the term. Ideally, we can put together a volume of grammatical sketches.\n\nThe first three to four weeks of the term, our group meetings will explore the basic phonology, morphology and surface syntax for a first pass overview of the language, looking for interesting areas to be explored in more detail later. During this period individual sessions can review material from the general session as well as explore new areas. At roughly the fifth meeting, individual students (typically two to three per session) guide the group elicitations to explore their research topic.\n",
   "department_numbers": [
     "24"
@@ -33,6 +34,7 @@
     "content": "3f6e7266-f947-b142-5f0e-8cc3a12542e7",
     "website": "24-942-grammar-of-a-less-familiar-language-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
